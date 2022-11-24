@@ -23,6 +23,9 @@ footer-links:
   dribbble:
   email: 
   facebook:
+  mastodon:
+    user: jlapoutre
+    host: mastodon.online
   flickr:
   github: squio
   instagram:
