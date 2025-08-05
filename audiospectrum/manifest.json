@@ -1,0 +1,24 @@
+{
+  "name": "Audio Spectrum Analyzer",
+  "short_name": "Spectrum",
+  "description": "Real-time audio spectrum analyzer with waterfall display",
+  "start_url": "/audiospectrum/",
+  "display": "standalone",
+  "background_color": "#222222",
+  "theme_color": "#4CAF50",
+  "orientation": "landscape-primary",
+  "icons": [
+    {
+      "src": "../images/favicon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    },
+    {
+      "src": "../images/favicon.ico",
+      "sizes": "16x16 32x32",
+      "type": "image/x-icon"
+    }
+  ],
+  "categories": ["music", "utilities"],
+  "screenshots": []
+}
